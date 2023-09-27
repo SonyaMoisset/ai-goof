@@ -1,8 +1,3 @@
-/**
- * Module dependencies.
- */
-
-// mongoose setup
 require('./mongoose-db');
 require('./typeorm-db')
 
